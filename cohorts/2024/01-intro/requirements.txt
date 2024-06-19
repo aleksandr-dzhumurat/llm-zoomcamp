@@ -1,0 +1,8 @@
+requests
+elasticsearch
+tqdm
+#
+jupyter==1.0.0
+openai
+python-dotenv
+tiktoken
