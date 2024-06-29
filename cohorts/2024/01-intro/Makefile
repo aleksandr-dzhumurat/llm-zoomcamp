@@ -5,5 +5,5 @@ export
 
 
 prepare-dirs:
-	mkdir -p ${CURRENT_DIR}/es-data || true
+	mkdir -p ${CURRENT_DIR}/es-data || true \
 	mkdir -p ${CURRENT_DIR}/data || true
