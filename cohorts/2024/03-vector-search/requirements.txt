@@ -1,0 +1,7 @@
+transformers[torch]
+sentence-transformers==2.2.2
+pandas
+#
+requests
+elasticsearch
+tqdm
